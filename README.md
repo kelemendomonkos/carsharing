@@ -1,9 +1,7 @@
-# ALFHF2019-suchteammuchwork
-ALFHF2019-suchteammuchwork created by GitHub Classroom
+# ALFHF2019
+ALFHF2019 created by GitHub Classroom
 
 Alkalmazásfejlesztési környezetek Házi Feladat
-
-SuchTeamMuchWork
 
 Gyimes Balázs
 
