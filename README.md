@@ -5,9 +5,9 @@ Alkalmazásfejlesztési környezetek Házi Feladat
 
 SuchTeamMuchWork
 
-Gyimes Balázs, CLTWFY, balazs.gyimes@gyimes.hu
+Gyimes Balázs
 
-Domonkos Kelemen, UWMDDI, kelemendomonkos@gmail.com
+Domonkos Kelemen, kelemendomonkos@gmail.com
 
 
 Bemutató videó URL-je:
